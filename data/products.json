@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Cotton T-Shirt",
+    "price": 1500,
+    "img": "images/t1.jpg",
+    "description": "Premium quality cotton T-shirt with comfortable fit and durable fabric.",
+    "category": "Clothing"
+  },
+  {
+    "id": 2,
+    "title": "Slim Fit Jeans",
+    "price": 3200,
+    "img": "images/jeans1.jpg",
+    "description": "Modern slim fit jeans with stretch fabric for maximum comfort.",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "title": "Casual Sneakers",
+    "price": 2500,
+    "img": "images/sneakers1.jpg",
+    "description": "Comfortable casual sneakers perfect for everyday wear.",
+    "category": "Footwear"
+  },
+  {
+    "id": 4,
+    "title": "Winter Jacket",
+    "price": 4500,
+    "img": "images/jacket1.jpg",
+    "description": "Warm and stylish winter jacket with waterproof exterior.",
+    "category": "Clothing"
+  },
+  {
+    "id": 5,
+    "title": "Sports Cap",
+    "price": 800,
+    "img": "images/cap1.jpg",
+    "description": "Adjustable sports cap with breathable fabric.",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "title": "Backpack",
+    "price": 2800,
+    "img": "images/backpack1.jpg",
+    "description": "Durable backpack with multiple compartments and laptop sleeve.",
+    "category": "Accessories"
+  }
+]
